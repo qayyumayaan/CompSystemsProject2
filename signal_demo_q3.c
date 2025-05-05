@@ -1,5 +1,3 @@
-
-// signal_demo_q3.c
 // Q3: half of the children block {SIGINT, SIGQUIT, SIGTSTP},
 // the other half block the *rest* of the eight signals.
 // Parent blocks {SIGINT, SIGQUIT, SIGTSTP} pre‐fork, installs handlers,
